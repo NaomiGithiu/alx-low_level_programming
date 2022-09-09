@@ -1,15 +1,11 @@
 #include <stdio.h>
-/**
-*main function prints alphabets in lowercase
-*
-*/
-int main(void)
+int maim(void)
 {
-char alp;
-for (alp = 'a' ; alp <= 'z' ; alp++)
+char ch;
+for (ch = 'a'; ch <= 'z'; ch++)
 {
-	putchar(alp);
+	putchar(ch);
 }
-putchar('\n')
+putchar('\n');
 return (0);
 }
