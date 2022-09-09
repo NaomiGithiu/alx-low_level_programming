@@ -2,10 +2,10 @@
 /**
 *main - prints if the number is positive, negative or zero
 *description: using the main function
-*this program prints alphabets in lowercase excluding e and q
-*return (0);
+*this program "prints alphabets in lowercase excluding e and q"
+*return "(0);"
 */
-int main(0)
+int main(void)
 {
 char ch;
 for (ch = 'a'; ch <= 'z'; ch++)
