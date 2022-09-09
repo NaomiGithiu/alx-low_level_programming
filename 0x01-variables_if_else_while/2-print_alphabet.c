@@ -4,7 +4,7 @@
  *
  * description: using the main function
  * this program prints the alphabets
- * return 0
+ * return: 0
  */
 int main(void)
 {
