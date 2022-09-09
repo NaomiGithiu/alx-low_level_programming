@@ -1,11 +1,10 @@
 #include <stdio.h>
 int main(void)
 {
-char ch;
-for (ch = 'a'; ch <= 'z'; ch++)
+int num;
+for (num = 0; num <= 9; num++)
 {
-	putchar(ch);
+	printf("%i \n", n);
 }
-putchar('\n');
 return (0);
 }
