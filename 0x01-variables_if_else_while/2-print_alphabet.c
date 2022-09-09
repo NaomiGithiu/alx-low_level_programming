@@ -2,6 +2,8 @@
 /**
  * main fuction prints the alphabets in lowercase
  *
+ * description: using the main function
+ * this program prints the alphabets
  * return 0
  */
 int main(void)
