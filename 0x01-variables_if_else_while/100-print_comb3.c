@@ -6,10 +6,22 @@
 */
 int main(void)
 {
-int ch;
-for (ch = 'z'; ch <= 'a'; ch--)
+int i, j;
+for (i = 0; ch < 10; ch++)
 {
-	putchar(ch);
+	for (j = 1; j < 10; j++)
+	{
+		if (i != j && i < j)
+		{
+			putchar(i);
+			putchar(j);
+			if (i != 8 || j < 9)
+			{
+				putchar(',');
+				putchar(' ');
+			}
+		}
+	}
 }
 putchar('\n');
 return (0);
