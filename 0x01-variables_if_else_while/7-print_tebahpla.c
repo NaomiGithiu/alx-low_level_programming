@@ -1,10 +1,8 @@
 #include <stdio.h>                                                                                                                                                              
 /**                                                                                                                                                                              
-* main fuction prints the alphabets in lowercase                                                                                                                               
-*                                                                                                                                                                               
-* description: using the main function                                                                                                                                         
-* this program prints the alphabets                                                                                                                                             
-* return: 0                                                                                                                                                                     
+* main - fuction prints the alphabets in lowercase                                                                                 
+
+ * description: using the main function                                                                                                 **Return: 0                                                                                                                
 */                                                                                                                                                                              
 int main(void)                                                                                                                                                                   
 {                                                                                                                                                                                
