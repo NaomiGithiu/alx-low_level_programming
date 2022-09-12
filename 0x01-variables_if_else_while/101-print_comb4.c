@@ -11,6 +11,8 @@ for (i = 0; i < 10; i++)
 {
 	for (j = 1; j < 10; j++)
 	{
+		for (k = 2; k < 100; k++)
+		{
 		if (i != j && j != k && i < j && j < k)
 		{
 			putchar(i);
