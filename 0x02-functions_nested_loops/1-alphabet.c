@@ -7,9 +7,10 @@
 */
 int main(void)
 {
+void print_alphabet(void);
+char c;
 print_alphabet()
 {
-char c;
 for (c = 'a'; c <= 'z'; c++)
 {
 	putchar(c);
@@ -17,3 +18,4 @@ for (c = 'a'; c <= 'z'; c++)
 putchar('\n');
 }
 return (0);
+}
