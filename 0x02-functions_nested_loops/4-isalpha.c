@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
 *_isalpha - checks for alphabets
 *@c: is the int that will be used
