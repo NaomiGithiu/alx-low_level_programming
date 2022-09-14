@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 /**
 *_abs - returns the absolute number
 *@i: is the int being used
