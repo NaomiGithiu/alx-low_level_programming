@@ -20,7 +20,7 @@ unsigned int _strspn(char *s, char *accept)
 				k = 1;
 			}
 		}
-		if (K == 0)
+		if (k == 0)
 			return (z);
 	}
 	return (0);
